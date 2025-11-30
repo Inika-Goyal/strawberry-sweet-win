@@ -1,5 +1,18 @@
 # Welcome to the sweet wins tic-tac-toe, where loss is sweet in its own way
 
+## Project Description and How to Play 🍓:
+A cute strawberry shortcake–themed tic-tac-toe game where you play against an AI. Soft pinks, strawberry reds, and creamy whites create a whimsical aesthetic, with floating strawberry decorations and smooth animations. Lose a round? A fun modal pops up with a self-improvement goal to keep you motivated while playing.
+
+1. Tap an empty square to place your X—just like decorating a sweet strawberry treat!
+
+2. The AI will take its turn and place an O—it’s your friendly dessert rival!
+
+3. Try to line up three X’s in a row—horizontally, vertically, or diagonally—before the AI does.
+
+If the AI wins, don’t worry! A cute modal will pop up with a self-improvement goal to sprinkle a little growth into your day.
+
+Want to play again? Just reset the board and start a fresh, yummy round!
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
