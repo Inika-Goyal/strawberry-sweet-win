@@ -1,7 +1,5 @@
 # Welcome to the sweet wins tic-tac-toe, where loss is sweet in its own way
 
-## Project info
-
 ## How can I edit this code?
 
 There are several ways of editing your application.
