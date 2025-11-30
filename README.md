@@ -14,11 +14,8 @@ If the AI wins, don’t worry! A cute modal will pop up with a self-improvement 
 Want to play again? Just reset the board and start a fresh, yummy round!
 
 
-Uploading Screen Recording 2025-11-30 015924.mp4…
 
-
-
-https://github.com/user-attachments/assets/7a319e57-f73d-4761-a419-89a83d163cc3
+sweet-wins-game
 
 
 
