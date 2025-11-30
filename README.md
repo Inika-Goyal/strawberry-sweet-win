@@ -1,4 +1,4 @@
-# Welcome to a sweet wins project, where everytime you lose you must take care of yourself
+# Welcome to the sweet wins tic-tac-toe, where loss is sweet in its own way
 
 ## Project info
 
