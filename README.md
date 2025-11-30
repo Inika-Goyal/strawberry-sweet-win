@@ -15,7 +15,7 @@ Want to play again? Just reset the board and start a fresh, yummy round!
 
 
 
-sweet-wins-game
+https://github.com/user-attachments/assets/5e3abf00-745a-453a-89c3-559b4f8cd597
 
 
 
